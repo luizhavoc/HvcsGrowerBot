@@ -1,6 +1,6 @@
 //Growerbot code by Havoc (luizhavoc@gmail.com)
+//thanks tombrew, this code is based on https://github.com/electricimp/examples/tree/master/tempBug
 //thanks jwehr @ http://forums.electricimp.com/ for all the help debugging and adding to the code.
-
 
 /* GLOBALS and CONSTANTS -----------------------------------------------------*/
 
